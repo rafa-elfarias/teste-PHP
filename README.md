@@ -2,8 +2,8 @@
 
 **ArraySorteado.php**
 ```
-Escreva um programa que preencha um array com 20 números inteiros sorteados entre 1 e 10. Depois informe qual ou quais número(s)
-não se repetiram.
+Escreva um programa que preencha um array com 20 números inteiros sorteados entre 1 e 10. 
+Depois informe qual ou quais número(s) não se repetiram.
 Exemplo
 Array sorteado = [2,5,8,2,8,5,3,9,6,3,4,6,3,1,2,1,2,3,7,1]
 Os números que não se repetem são o 4 e 7. 
@@ -13,8 +13,9 @@ Os números que não se repetem são o 4 e 7.
 
 **Primos.php**
 ```
-Crie uma função que receba como parâmetro 2 números  inteiros (inicial e final)  e retorne um array com os números primos estão
-compreendidos entre o valor inicial e o final, desprezando o número inicial e final recebidos como parâmetro. 
+Crie uma função que receba como parâmetro 2 números  inteiros (inicial e final) 
+e retorne um array com os números primos estão compreendidos entre o valor inicial
+e o final, desprezando o número inicial e final recebidos como parâmetro. 
 Exemplo para teste:
 Numero Inicial = 10
 Número Final = 29
@@ -25,8 +26,9 @@ Resposta: Array [11,13,17,19,23]
 
 **SeculoAno.php**
 ```
-Desenvolva uma função que receba como parametro o ano e retorne o século ao qual este ano faz parte. O primeiro século começa no
-ano 1 e termina no ano 100, o segundo século começa no ano 101 e termina no 200.
+Desenvolva uma função que receba como parametro o ano e retorne o século ao qual 
+este ano faz parte. O primeiro século começa no ano 1 e termina no ano 100, o 
+segundo século começa no ano 101 e termina no 200.
 Exemplos para teste:
 Ano 1905 = século 20
 Ano 1700 = século 17
@@ -36,8 +38,8 @@ Ano 1700 = século 17
 
 **SequenciaCrescente.php**
 ```
-Receba como parametro um array de números inteiros e responda TRUE or FALSE se é possível obter uma sequencia crescente removendo
-apenas um elemento do array.
+Receba como parametro um array de números inteiros e responda TRUE or FALSE se é
+possível obter uma sequencia crescente removendo apenas um elemento do array.
 Exemplos para teste 
 Obs.:
 -  É Importante  realizar todos os testes abaixo para garantir o funcionamento correto.
