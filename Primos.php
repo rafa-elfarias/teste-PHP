@@ -1,12 +1,4 @@
 <?php
-/*Crie uma função que receba como parâmetro 2 números  inteiros (inicial e final)  e retorne um array com os números primos estão compreendidos entre o valor inicial e o final, desprezando o número inicial e final recebidos como parâmetro. 
-
-Exemplo para teste:
-
-Numero Inicial = 10
-Número Final = 29
-Resposta: Array [11,13,17,19,23] */
-
 function primos($inicial, $final) {
 	echo "Números primos de ".$inicial." até ".$final." são \n\n";
 	
