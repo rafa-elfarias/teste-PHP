@@ -1,4 +1,5 @@
-## Questões teste técnico:
+## Questões teste técnico
+Teste referente a processo seletivo, envio ao GitHub solicitado pela empresa.
 
 **ArraySorteado.php**
 ```
